@@ -4,7 +4,7 @@
     I live in India with my family.</p>
 
 <h3>- 🔭 My Interests</h3>
-<p>- 👀 I’m interested in Machine Learning and Artificial Intelligence and also have some experience building ML projects and working with several Data Wrangling and ML libraries.</p>
+<p>- 👀 I’m interested in Machine Learning and Artificial Intelligence and also have some experience building ML projects and working with several Data Wrangling and ML libraries. I've worked on multiple Python web frameworks like Django and Flask as well.</p>
 
 <h3>- 📫 How to reach me</h3>
  <a href="mailto:akshit.rathore1@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
