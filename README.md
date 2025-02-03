@@ -1,5 +1,5 @@
 <h2>Hey there! I am Akshit Rathore</h2>
-<p>- 👋 Undergraduate student pursuing my Bachelor in Technology majoring in Computer Science.<br>
+<p>- 👋 Fresher, completed my Bachelor in Technology majoring in Computer Science.<br>
     I'm a versatile developer, with some experience in building web platforms and developing various machine learning projects.<br>
     I live in India with my family.</p>
 
